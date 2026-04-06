@@ -1,0 +1,29 @@
+{
+  "advertisers": [
+    {
+      "company": "FinPilot",
+      "contact_name": "Jordan",
+      "typical_sponsorship_usd": 800
+    },
+    {
+      "company": "LedgerLite",
+      "contact_name": "Mina",
+      "typical_sponsorship_usd": 1200
+    },
+    {
+      "company": "CareerForge",
+      "contact_name": "Sam",
+      "typical_sponsorship_usd": 950
+    },
+    {
+      "company": "FitNest",
+      "contact_name": "Taylor",
+      "typical_sponsorship_usd": 700
+    },
+    {
+      "company": "SecureNest",
+      "contact_name": "Alex",
+      "typical_sponsorship_usd": 1100
+    }
+  ]
+}
